@@ -22,7 +22,7 @@ Perform semantic segmentation directly from your browser using TensorFlow.js. <b
 ---
 
 ### In browser workout performance measurement using Pose Estimation
-Use Tensorflow.js and PoseNet to measure your workouts directly from the browser
+Use Tensorflow.js and PoseNet to measure your workouts directly from the browser.
 
 
 ##### 📰 Article: [https://lnkd.in/eZmZ4GX](https://lnkd.in/eZmZ4GX)  
