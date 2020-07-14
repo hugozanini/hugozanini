@@ -4,7 +4,7 @@
 
 <p><em>
 
-<img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="30">Electrical Enginner @ <a href="http://www.unb.br">UFMG</a></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Computer Vision Engineer @ <a href="https://www.accenture.com/">Accenture</a>
+<img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="30">Electrical Enginner @ <a href="https://ufmg.br/international-visitors">UFMG</a></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Computer Vision Engineer @ <a href="https://www.accenture.com/">Accenture</a>
 </em></p>
 
 
