@@ -6,7 +6,8 @@
 
 <img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="30">Electrical Enginner @ <a href="http://www.unb.br">UFMG</a></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Computer Vision Engineer @ <a href="https://www.accenture.com/">Accenture</a>
 </em></p>
-</br>
+
+
 [![Linkedin: hugozanini](https://img.shields.io/badge/-hugozanini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/hugozanini/)
 <br>
 [![GitHub HugoZanini](https://img.shields.io/github/followers/hugozanini?label=follow&style=social)](https://github.com/hugozanini)
