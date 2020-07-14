@@ -10,7 +10,7 @@
 [![GitHub HugoZanini](https://img.shields.io/github/followers/hugozanini?label=follow&style=social)](https://github.com/hugozanini)
 
 
-### <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="50"> My projects
+### <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
 ---
 ### Realtime semantic segmentation in the browser
 ##### 📰 Article: [https://lnkd.in/dFm95MJ](https://lnkd.in/dFm95MJ)  
