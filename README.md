@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Hugo Zanini! <img src="https://media.giphy.com/media/oGbtue7olsUZG/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Hugo Zanini!
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="230">
 
 <p><em>Electrical Enginner at <a href="http://www.unb.br">UFMG</a><img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="30"></br> Computer Vision Engineer at <a href="https://www.accenture.com/">Accenture</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
