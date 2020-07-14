@@ -19,6 +19,7 @@
 ##### 👨‍💻 Code: [https://lnkd.in/dJ_sJiv](https://lnkd.in/dJ_sJiv)
 
 Perform semantic segmentation directly from your browser using TensorFlow.js. <br> There is no need for complex libraries or powerful computers.
+
 <img src="https://raw.githubusercontent.com/hugozanini/realtime-semantic-segmentation/master/git_media/objects_demo.gif" width="500">
 
 ---
@@ -41,4 +42,3 @@ Startup that solved data tracking and inventory control problems in coffee wareh
 [<img src="https://raw.githubusercontent.com/hugozanini/Jekyll-site-demo/master/img/about/vlcsnap-2020-07-14-17h19m24s046.png" width="450">](https://www.youtube.com/watch?v=S5JIlOTmKmo)
 
 ---
-
