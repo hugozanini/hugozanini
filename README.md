@@ -2,7 +2,13 @@
 <h2> Hi, I'm Hugo Zanini! </h2>
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="230">
 
-<p><em>Electrical Enginner at <a href="http://www.unb.br">UFMG</a><img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="30"></br> Computer Vision Engineer at <a href="https://www.accenture.com/">Accenture</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>
+
+<img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="30">Electrical Enginner @ <a href="http://www.unb.br">UFMG</a>
+
+</br>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Computer Vision Engineer @ <a href="https://www.accenture.com/">Accenture</a>
 </em></p>
 
 [![Linkedin: hugozanini](https://img.shields.io/badge/-hugozanini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/hugozanini/)
@@ -39,4 +45,3 @@ Startup that solved data tracking and inventory control problems in coffee wareh
 [<img src="https://raw.githubusercontent.com/hugozanini/Jekyll-site-demo/master/img/about/vlcsnap-2020-07-14-17h19m24s046.png" width="450">](https://www.youtube.com/watch?v=S5JIlOTmKmo)
 
 ---
-
