@@ -17,7 +17,6 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Ma
 ### <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
 ---
 
-https://media.giphy.com/media/SwmtomKcvF9XnJRgt7/giphy.gif
 ### TensorFlow Show and Tell
 Watch my last talk  about Semantic Segmentation in the Official TensorFlow YouTube Channel :)
 
