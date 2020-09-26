@@ -14,15 +14,16 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Ma
 [![GitHub HugoZanini](https://img.shields.io/github/followers/hugozanini?label=follow&style=social)](https://github.com/hugozanini)
 
 
-### <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
----
+## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
+
+
 
 ### TensorFlow Show and Tell
 Watch my last talk  about Semantic Segmentation in the Official TensorFlow YouTube Channel :)
 
 
 [<img src="https://raw.githubusercontent.com/hugozanini/realtime-semantic-segmentation/master/git_media/conver_tfjs.PNG" width="500">](https://youtu.be/fZ1rzawCPD4?t=1866)
-
+---
 
 ### Realtime semantic segmentation in the browser
 
