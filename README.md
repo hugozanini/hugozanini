@@ -22,7 +22,7 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Ma
 Watch my last talk  about Semantic Segmentation in the Official TensorFlow YouTube Channel :)
 
 
-[<img src="https://raw.githubusercontent.com/hugozanini/realtime-semantic-segmentation/master/git_media/conver_tfjs.PNG" width="500">](https://youtu.be/fZ1rzawCPD4?t=1866)
+[<img src="https://raw.githubusercontent.com/hugozanini/realtime-semantic-segmentation/master/git_media/conver_tfjs.PNG" width="500">](https://youtu.be/3XzQQlh_p1c)
 ---
 
 ### Realtime semantic segmentation in the browser
