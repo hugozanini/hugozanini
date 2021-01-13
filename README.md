@@ -6,7 +6,7 @@
 <p><em>
 
 <img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="30">Electrical Engineer @ <a href="https://ufmg.br/international-visitors">UFMG</a></br><img 
-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Machine Learning Engineer @ <a href="https://www.accenture.com/">Accenture</a>
+src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Machine Learning Engineer | Trainee Tech @ <a href="https://www.ab-inbev.com//">AB InBev </a>
 </em></p>
 </br>
 [![Linkedin: hugozanini](https://img.shields.io/badge/-hugozanini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/hugozanini/)
