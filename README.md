@@ -1,5 +1,6 @@
 
 
+
 <h2> Hi, I'm Hugo Zanini! </h2>
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="230">
 
@@ -17,7 +18,19 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Ma
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
 
 
+### Custom object detection in the browser using TensorFlow.js 
 
+Train a MobileNetV2 using the TensorFlow 2 Object Detection API and Google Colab, convert the model, and run real-time inferences in the browser through TensorFlow.js.
+
+
+[<img src="https://raw.githubusercontent.com/hugozanini/TFJS-object-detection/master/git_media/header.png" width="600">](https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html)
+
+In the post, you will find all the steps to create a high-performance solution - from the data preparation until the deployment. There is no need for powerful computers or expensive graphic cards. It's possible to recognize up to 90 classes, and produce results as shown below:
+
+
+<img src="https://github.com/hugozanini/TFJS-object-detection/blob/master/git_media/kangaroo-demo.gif?raw=true" width="500">
+
+---
 ### TensorFlow Show and Tell
 Watch my last talk  about Semantic Segmentation in the Official TensorFlow YouTube Channel :)
 
@@ -27,16 +40,21 @@ Watch my last talk  about Semantic Segmentation in the Official TensorFlow YouTu
 
 ### Realtime semantic segmentation in the browser
 
-This project was selected as [TensorFlow Community Spotlight Winner](https://twitter.com/TensorFlow/status/1288851880538517506)  <img src="https://media.giphy.com/media/8ChAxKvwawS6QUPLPh/giphy.gif" width="40">
-
-<img src="https://raw.githubusercontent.com/hugozanini/realtime-semantic-segmentation/master/git_media/spotlight_banner.png" width="450">
+Perform semantic segmentation directly from your browser using TensorFlow.js. <br> There is no need for complex libraries or powerful computers.
 
 ##### 📰 Article: [https://lnkd.in/dFm95MJ](https://lnkd.in/dFm95MJ)  
 ##### 👨‍💻 Code: [https://lnkd.in/dJ_sJiv](https://lnkd.in/dJ_sJiv)
 
-Perform semantic segmentation directly from your browser using TensorFlow.js. <br> There is no need for complex libraries or powerful computers.
+
 
 <img src="https://raw.githubusercontent.com/hugozanini/realtime-semantic-segmentation/master/git_media/objects_demo.gif" width="500">
+
+This project was selected as [TensorFlow Community Spotlight Winner](https://twitter.com/TensorFlow/status/1288851880538517506)  <img src="https://media.giphy.com/media/8ChAxKvwawS6QUPLPh/giphy.gif" width="40">
+
+<img src="https://raw.githubusercontent.com/hugozanini/realtime-semantic-segmentation/master/git_media/spotlight_banner.png" width="450">
+
+
+
 
 ---
 
