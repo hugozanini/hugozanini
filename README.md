@@ -76,3 +76,9 @@ Startup that solved data tracking and inventory control problems in coffee wareh
 [<img src="https://raw.githubusercontent.com/hugozanini/Jekyll-site-demo/master/img/about/vlcsnap-2020-07-14-17h19m24s046.png" width="450">](https://www.youtube.com/watch?v=S5JIlOTmKmo)
 
 ---
+### Instagram Bot
+
+Selenium-based bot to scrape data from Instagram posts. <br>
+[<img src="https://raw.githubusercontent.com/hugozanini/instagram-bot/main/git_media/instabot.gif" width="450">](https://www.youtube.com/watch?v=S5JIlOTmKmo)
+
+---
