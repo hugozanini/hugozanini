@@ -2,7 +2,7 @@
 
 
 <h2> Hi, I'm Hugo Zanini! </h2>
-<img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/myself.png" width="230">
 
 <p><em>
 
