@@ -1,6 +1,7 @@
 
 
 
+
 <h2> Hi, I'm Hugo Zanini! </h2>
 <img align='right' src="https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/myself.png" width="170">
 
@@ -20,7 +21,7 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Ma
 
 ### Custom object detection in the browser using TensorFlow.js 
 
-Train a MobileNetV2 using the TensorFlow 2 Object Detection API and Google Colab, convert the model, and run real-time inferences in the browser through TensorFlow.js.
+Read my last post on TensorFlow blog on how to train a MobileNetV2 using the TensorFlow 2 Object Detection API and Google Colab, convert the model, and run real-time inferences in the browser through TensorFlow.js.
 
 
 [<img src="https://raw.githubusercontent.com/hugozanini/TFJS-object-detection/master/git_media/header.png" width="600">](https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html)
@@ -54,7 +55,15 @@ This project was selected as [TensorFlow Community Spotlight Winner](https://twi
 <img src="https://raw.githubusercontent.com/hugozanini/realtime-semantic-segmentation/master/git_media/spotlight_banner.png" width="450">
 
 
+---
+### Few-shot learning: Creating a real-time object detector using TensorFlow, Python and JavaScript
 
+Take a few pictures of an object using your webcam, label the images and train a few-shot learning model using [this Google Colab Notebook](https://colab.research.google.com/drive/11KAsKG6pTSUO-melYfCiohOVk4s6MwIB#scrollTo=PL8jmeQGKNT-).
+
+If you want to know more, go to the [project repository](https://github.com/hugozanini/realtime-retinanet).
+
+
+<img src = "https://github.com/hugozanini/realtime-retinanet/blob/main/git_media/skol_demo.gif?raw=true" width="500">
 
 ---
 
