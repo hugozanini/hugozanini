@@ -11,9 +11,16 @@
 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Machine Learning Engineer | Trainee Tech @ <a href="https://www.ab-inbev.com//">AB InBev </a>
 </em></p>
 </br>
-[![Linkedin: hugozanini](https://img.shields.io/badge/-hugozanini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/hugozanini/)
-<br>
+
 [![GitHub HugoZanini](https://img.shields.io/github/followers/hugozanini?label=follow&style=social)](https://github.com/hugozanini)
+
+
+[![Linkedin: hugozanini](https://img.shields.io/badge/-hugozanini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/hugozanini/)
+
+[![Linkedin: hugozanini](https://img.shields.io/twitter/follow/hugoznn?style=social)](https://twitter.com/hugoznn)
+<br>
+
+
 
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
