@@ -2,7 +2,7 @@
 
 
 <h2> Hi, I'm Hugo Zanini! </h2>
-<img align='right' src="https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/myself.png" width="180">
+<img align='right' src="https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/myself.png" width="170">
 
 <p><em>
 
