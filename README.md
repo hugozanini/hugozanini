@@ -93,6 +93,7 @@ Startup that solved data tracking and inventory control problems in coffee wareh
 
 Selenium-based bot to scrape data from Instagram posts. <br>
 
+Access the repo [here](https://github.com/hugozanini/instagram-bot)
 
 [<img src="https://raw.githubusercontent.com/hugozanini/instagram-bot/main/git_media/instabot.gif" width="450">](https://github.com/hugozanini/instagram-bot)
 
