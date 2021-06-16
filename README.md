@@ -8,7 +8,7 @@
 <p><em>
 
 <img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="30">Electrical Engineer @ <a href="https://ufmg.br/international-visitors">UFMG</a></br></br><img 
-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Machine Learning Engineer | Trainee Tech @ <a href="https://www.ab-inbev.com//">AB InBev </a>
+src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Machine Learning Engineer | Data Product Owner @ <a href="https://www.ab-inbev.com//">AB InBev </a>
 </em></p>
 </br>
 
