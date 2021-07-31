@@ -98,3 +98,14 @@ Access the repo [here](https://github.com/hugozanini/instagram-bot)
 [<img src="https://raw.githubusercontent.com/hugozanini/instagram-bot/main/git_media/instabot.gif" width="450">](https://github.com/hugozanini/instagram-bot)
 
 ---
+### Fitting a sine function using a Neural Network
+
+
+In [this repository](https://github.com/hugozanini/neural-sine), you will find the codes to create a neural network capable of approximate a sine function.
+
+All the explanations and discussions about creating the model and overfittings problems it can have are in the notebook.
+
+In the end, it is expected that you produce results as shown below:
+
+[<img src="https://raw.githubusercontent.com/hugozanini/neural-sine/main/git_images/neural-sine.gif" width="450">](https://github.com/hugozanini/neural-sine)
+
