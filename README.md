@@ -88,7 +88,7 @@ This is a tutorial inspired by a [Google I/O session](https://events.google.com/
 ##### 👨‍💻 Codelab: [https://hugozanini.github.io/tf-object-detection](https://hugozanini.github.io/tf-object-detection)
 
 
-<img src = "https://hugozanini.github.io/tf-object-detection/img/909f99b09b0aa5eb.gif" width="500">
+<img src = "https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/coco-ssd.gif" width="500">
 
 ---
 ### Markitt 
