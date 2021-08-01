@@ -81,6 +81,16 @@ Use Tensorflow.js and PoseNet to measure your workouts directly from the browser
 <img src = "https://github.com/hugozanini/Activities-Pose-Estimation/blob/master/images/demo-gif.gif?raw=true" width="500">
 
 ---
+### Creating a real-time object detector using tensorflow.js
+
+This is a tutorial inspired by a [Google I/O session](https://events.google.com/io/session/3823ec97-499a-4af3-9e76-a1a538c5adb4?lng=en), where I show how to use the pre-trained COCO-SSD model to create a real-time object detector in the browser using tensorflow.js.
+
+##### 👨‍💻 Codelab: [https://hugozanini.github.io/tf-object-detection](https://hugozanini.github.io/tf-object-detection)
+
+
+<img src = "https://hugozanini.github.io/tf-object-detection/img/909f99b09b0aa5eb.gif" width="500">
+
+---
 ### Markitt 
 Startup that solved data tracking and inventory control problems in coffee warehouses using Radio Frequency and Computer Vision.
 
