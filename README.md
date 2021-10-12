@@ -15,7 +15,12 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Ma
 
 <br/>
 
-<img align='left' src="https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/expert_ml_logo.png" width="200">
+[<img align='left' src="https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/expert_ml_logo.png" width="200">](https://developers.google.com/community/experts)
+
+
+
+[<img src="https://raw.githubusercontent.com/hugozanini/TFJS-object-detection/master/git_media/header.png" width="600">](https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html)
+
 
 <br/>
 <br/>
