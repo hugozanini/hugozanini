@@ -13,6 +13,8 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Ma
 </em></p>
 
 
+<br/>
+
 <img align='left' src="https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/expert_ml_logo.png" width="200">
 
 <br/>
@@ -20,7 +22,7 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Ma
 <br/>
 <br/>
 
-<br/>
+
 <br/>
 
 
