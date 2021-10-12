@@ -2,6 +2,7 @@
 
 
 
+
 <h2> Hi, I'm Hugo Zanini! </h2>
 <img align='right' src="https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/myself.png" width="170">
 
@@ -10,7 +11,14 @@
 <img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="30">Electrical Engineer @ <a href="https://ufmg.br/international-visitors">UFMG</a></br></br><img 
 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Machine Learning Engineer | Data Product Manager @ <a href="https://www.ab-inbev.com//">AB InBev </a>
 </em></p>
-</br>
+
+
+<img align='left' src="https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/expert_ml_logo.png" width="200">
+
+<br/>
+<br/>
+<br/>
+
 
 
 [![Linkedin: hugozanini](https://img.shields.io/badge/-hugozanini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/hugozanini/) <br>
