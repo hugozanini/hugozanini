@@ -3,6 +3,7 @@
 
 
 
+
 <h2> Hi, I'm Hugo Zanini! </h2>
 <img align='right' src="https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/myself.png" width="170">
 
@@ -55,6 +56,17 @@ Watch my last talk  about Semantic Segmentation in the Official TensorFlow YouTu
 
 
 [<img src="https://raw.githubusercontent.com/hugozanini/realtime-semantic-segmentation/master/git_media/conver_tfjs.PNG" width="500">](https://youtu.be/3XzQQlh_p1c)
+---
+### NLP for sentiment Analysis in Portuguese
+How to retrain BERT to perform real-time sentiment analysis in Portuguese using Pytorch, Python and javascript.
+
+##### 📰 Model Training: [https://lnkd.in/dQ7qQf-A](https://lnkd.in/dQ7qQf-A)
+##### 📰 Productizing the model: [https://lnkd.in/dB7HQykk](https://lnkd.in/dB7HQykk)
+##### 👨‍💻 Code: [https://lnkd.in/deVfkFwv](https://lnkd.in/deVfkFwv)
+
+
+<img src="https://raw.githubusercontent.com/hugozanini/sentiment-analysis/main/media/bert_example.gif" width="500">
+
 ---
 
 ### Realtime semantic segmentation in the browser
