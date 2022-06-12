@@ -4,13 +4,14 @@
 
 
 
+
 <h2> Hi, I'm Hugo Zanini! </h2>
 <img align='right' src="https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/myself.png" width="170">
 
 <p><em>
 
 <img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="30">Electrical Engineer @ <a href="https://ufmg.br/international-visitors">UFMG</a></br></br><img 
-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Machine Learning Engineer | Data Product Manager @ <a href="https://www.ab-inbev.com//">AB InBev </a>
+src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   Data Product Manager @ <a href="https://www.ab-inbev.com//">AB InBev </a>
 </em></p>
 
 
@@ -37,12 +38,25 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Ma
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
 
+### Realtime and offline SKU detection in the browser using TensorFlow.js 
+
+Recognizing SKUs in densely packed scenes is a well-known and challenging problem in the Consumer Packaged Goods industry. In [this post](https://blog.tensorflow.org/2022/05/real-time-sku-detection-in-browser.html) on the Tensorflow blog, I showed how to train and deploy a model to solve it in real-time and offline in the browser of any device.
+
+👨‍💻 Live Demo: [https://lnkd.in/dX3QpFDa](https://lnkd.in/dX3QpFDa)  
+  
+💻 Code: [https://lnkd.in/d5uCmjj3](https://lnkd.in/d5uCmjj3)
+<body> 
+<img  alt="Qries"
+src="https://github.com/hugozanini/realtime-sku-detection/blob/main/git-media/demo.gif?raw=true"  width="275" height="600">
+</body
+
+---
 
 ### Custom object detection in the browser using TensorFlow.js 
 
-Read my last post on TensorFlow blog on how to train a MobileNetV2 using the TensorFlow 2 Object Detection API and Google Colab, convert the model, and run real-time inferences in the browser through TensorFlow.js.
+Read [my post](https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html) on TensorFlow blog on how to train a MobileNetV2 using the TensorFlow 2 Object Detection API and Google Colab, convert the model, and run real-time inferences in the browser through TensorFlow.js.
 
-
+##### 👨‍💻 Code:  [https://lnkd.in/deVfkFwv](https://github.com/hugozanini/TFJS-object-detection)
 [<img src="https://raw.githubusercontent.com/hugozanini/TFJS-object-detection/master/git_media/header.png" width="600">](https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html)
 
 In the post, you will find all the steps to create a high-performance solution - from the data preparation until the deployment. There is no need for powerful computers or expensive graphic cards. It's possible to recognize up to 90 classes, and produce results as shown below:
