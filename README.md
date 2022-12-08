@@ -11,7 +11,7 @@
 <p><em>
 
 <img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="30">Electrical Engineer @ <a href="https://ufmg.br/international-visitors">UFMG</a></br></br><img 
-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   Data Product Manager @ <a href="https://www.nubank.com.br//"> Nu </a>
+src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   Tech Product Manager @ <a href="https://www.nubank.com.br//"> Nu </a>
 </em></p>
 
 <br/>
