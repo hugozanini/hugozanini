@@ -5,6 +5,7 @@
 
 
 
+
 <h2> Hi, I'm Hugo Zanini! </h2>
 <img align='right' src="https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/myself.png" width="170">
 
@@ -36,6 +37,62 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   T
 
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
+
+
+###  Image Animation with Generative AI
+Human image animation has gained a lot of attention given its potential application across various domains, including social media, the movie industry, and entertainment.
+
+In this work, I adapted the [Magic Animate]([https://arxiv.org/abs/2311.16498](https://arxiv.org/abs/2311.16498)) model using  Detectron and stablediffusion-1.5  for running the pipeline in a colab notebook using only free computing resources!
+
+💻 [Code](https://colab.research.google.com/drive/1_S2hXrgTe3EVgIHp_xVgSsiOHBY4VHdq?usp=sharing#scrollTo=SZoqaajeVPQh)
+
+
+<body> 
+<img  alt="Qries"
+src="https://raw.githubusercontent.com/hugozanini/Jekyll-site-demo/master/img/selena-adovcu-1.gif"  height="250">
+</body
+
+
+---
+
+
+### Custom YOLOv7 Object Detection with TensorFlow.js
+
+This article shows how to train a custom YOLOv7 model run it directly in the browser in real-time and offline with TensorFlow.js. 
+
+**This is the world's first open-source implementation of the YoloV7 model, a state-of-the-art object detector, in TensorFlow.js.**
+
+**📰 [Article](https://towardsdatascience.com/training-a-custom-yolov7-in-pytorch-and-running-it-directly-in-the-browser-with-tensorflow-js-96a5ecd7a530)  
+💻 [Code](https://github.com/hugozanini/yolov7-tfjs/tree/master)
+👨‍💻 [Live Demo](https://github.com/hugozanini/yolov7-tfjs/tree/master?tab=readme-ov-file)** 
+  
+<body> 
+<img  alt="Qries"
+src="https://github.com/hugozanini/yolov7-tfjs/blob/master/git-media/yolov7-tfjs-optimized.gif?raw=true"  height="500">
+</body
+
+
+---
+### Real-time clothes segmentation with TF.JS
+
+While semantic segmentation is already widely used in self-driving cars, there's untapped potential for it in the hashtag Fashion Industry too! 
+
+In this work I developed a segmentation model using Tensorflow.js, Transformers and lightweight multilayer perception (MLP) decoders for real-time real-time clothes segmentation in the browser:
+
+#### **💻 [Code](https://github.com/hugozanini/segformer-clothes-tfjs)**
+ 
+<body> 
+<img  alt="Qries"
+src="https://github.com/hugozanini/segformer-clothes-tfjs/raw/main/git-media/segformer-demo.gif?raw=true"  height="500">
+</body
+
+
+
+
+
+
+
+---
 
 ### Realtime and offline SKU detection in the browser using TensorFlow.js 
 
