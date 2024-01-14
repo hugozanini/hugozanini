@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 <h2> Hi, I'm Hugo Zanini! </h2>
 <img align='right' src="https://raw.githubusercontent.com/hugozanini/hugozanini.github.io/master/myself.png" width="170">
 
@@ -44,7 +36,7 @@ Human image animation has gained a lot of attention given its potential applicat
 
 In this work, I adapted the [Magic Animate]([https://arxiv.org/abs/2311.16498](https://arxiv.org/abs/2311.16498)) model using  Detectron and stablediffusion-1.5  for running the pipeline in a colab notebook using only free computing resources!
 
-💻 [Code](https://colab.research.google.com/drive/1_S2hXrgTe3EVgIHp_xVgSsiOHBY4VHdq?usp=sharing#scrollTo=SZoqaajeVPQh)
+> 💻 [Code](https://colab.research.google.com/drive/1_S2hXrgTe3EVgIHp_xVgSsiOHBY4VHdq?usp=sharing#scrollTo=SZoqaajeVPQh)
 
 
 <body> 
@@ -62,9 +54,11 @@ This article shows how to train a custom YOLOv7 model run it directly in the bro
 
 **This is the world's first open-source implementation of the YoloV7 model, a state-of-the-art object detector, in TensorFlow.js.**
 
-**📰 [Article](https://towardsdatascience.com/training-a-custom-yolov7-in-pytorch-and-running-it-directly-in-the-browser-with-tensorflow-js-96a5ecd7a530)  
-💻 [Code](https://github.com/hugozanini/yolov7-tfjs/tree/master)
-👨‍💻 [Live Demo](https://github.com/hugozanini/yolov7-tfjs/tree/master?tab=readme-ov-file)** 
+
+
+>📰 [Article](https://towardsdatascience.com/training-a-custom-yolov7-in-pytorch-and-running-it-directly-in-the-browser-with-tensorflow-js-96a5ecd7a530)  <br>
+> 💻 [Code](https://github.com/hugozanini/yolov7-tfjs/tree/master)<br>
+👨‍💻 [Live Demo](https://github.com/hugozanini/yolov7-tfjs/tree/master?tab=readme-ov-file)
   
 <body> 
 <img  alt="Qries"
@@ -79,18 +73,12 @@ While semantic segmentation is already widely used in self-driving cars, there's
 
 In this work I developed a segmentation model using Tensorflow.js, Transformers and lightweight multilayer perception (MLP) decoders for real-time real-time clothes segmentation in the browser:
 
-#### **💻 [Code](https://github.com/hugozanini/segformer-clothes-tfjs)**
+> **💻 [Code](https://github.com/hugozanini/segformer-clothes-tfjs)**
  
 <body> 
 <img  alt="Qries"
 src="https://github.com/hugozanini/segformer-clothes-tfjs/raw/main/git-media/segformer-demo.gif?raw=true"  height="500">
 </body
-
-
-
-
-
-
 
 ---
 
@@ -98,9 +86,8 @@ src="https://github.com/hugozanini/segformer-clothes-tfjs/raw/main/git-media/seg
 
 Recognizing SKUs in densely packed scenes is a well-known and challenging problem in the Consumer Packaged Goods industry. In [this post](https://blog.tensorflow.org/2022/05/real-time-sku-detection-in-browser.html) on the Tensorflow blog, I showed how to train and deploy a model to solve it in real-time and offline in the browser of any device.
 
-👨‍💻 Live Demo: [https://lnkd.in/dX3QpFDa](https://lnkd.in/dX3QpFDa)  
-  
-💻 Code: [https://lnkd.in/d5uCmjj3](https://lnkd.in/d5uCmjj3)
+> 👨‍💻 [Live Demo](https://lnkd.in/dX3QpFDa)  <br>
+> 💻 [Code](https://lnkd.in/d5uCmjj3) <br>
 <body> 
 <img  alt="Qries"
 src="https://github.com/hugozanini/realtime-sku-detection/blob/main/git-media/demo.gif?raw=true"  width="275" height="600">
@@ -112,7 +99,8 @@ src="https://github.com/hugozanini/realtime-sku-detection/blob/main/git-media/de
 
 Read [my post](https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html) on TensorFlow blog on how to train a MobileNetV2 using the TensorFlow 2 Object Detection API and Google Colab, convert the model, and run real-time inferences in the browser through TensorFlow.js.
 
-##### 👨‍💻 Code:  [https://lnkd.in/deVfkFwv](https://github.com/hugozanini/TFJS-object-detection)
+> 👨‍💻 [Code](https://github.com/hugozanini/TFJS-object-detection)<br>
+
 [<img src="https://raw.githubusercontent.com/hugozanini/TFJS-object-detection/master/git_media/header.png" width="600">](https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html)
 
 In the post, you will find all the steps to create a high-performance solution - from the data preparation until the deployment. There is no need for powerful computers or expensive graphic cards. It's possible to recognize up to 90 classes, and produce results as shown below:
@@ -130,9 +118,9 @@ Watch my last talk  about Semantic Segmentation in the Official TensorFlow YouTu
 ### NLP for sentiment Analysis in Portuguese
 How to retrain BERT to perform real-time sentiment analysis in Portuguese using Pytorch, Python and javascript.
 
-##### 📰 Model Training: [https://lnkd.in/dQ7qQf-A](https://lnkd.in/dQ7qQf-A)
-##### 📰 Productizing the model: [https://lnkd.in/dB7HQykk](https://lnkd.in/dB7HQykk)
-##### 👨‍💻 Code: [https://lnkd.in/deVfkFwv](https://lnkd.in/deVfkFwv)
+>  📰 [Model Training](https://lnkd.in/dQ7qQf-A)<br>
+> 📰 [Productizing the model](https://lnkd.in/dB7HQykk)<br>
+> 👨‍💻 [Code](https://lnkd.in/deVfkFwv)<br>
 
 
 <img src="https://raw.githubusercontent.com/hugozanini/sentiment-analysis/main/media/bert_example.gif" width="500">
@@ -143,8 +131,8 @@ How to retrain BERT to perform real-time sentiment analysis in Portuguese using 
 
 Perform semantic segmentation directly from your browser using TensorFlow.js. <br> There is no need for complex libraries or powerful computers.
 
-##### 📰 Article: [https://lnkd.in/dFm95MJ](https://lnkd.in/dFm95MJ)  
-##### 👨‍💻 Code: [https://lnkd.in/dJ_sJiv](https://lnkd.in/dJ_sJiv)
+> 📰 [Article](https://lnkd.in/dFm95MJ)  <br>
+> 👨‍💻 [Code](https://lnkd.in/dJ_sJiv)
 
 
 
